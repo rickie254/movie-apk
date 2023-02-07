@@ -64,8 +64,8 @@ In most cases, we strongly recommend using the [next/image](https://nextjs.org/d
   
 ## Authors
 
-- [@anton-karlovskiy](https://github.com/anton-karlovskiy)
-- [@addyosmani](https://github.com/addyosmani)
+
+
 
 Based on the original `create-react-app` foundation by [@fidalgodev](https://github.com/fidalgodev/movie-library-react).
 
